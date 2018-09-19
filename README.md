@@ -1,2 +1,2 @@
-# java_home
+# Java_home
 the Daily sharing of Java
